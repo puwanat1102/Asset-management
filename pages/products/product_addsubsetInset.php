@@ -1,0 +1,1 @@
+<div class='row'><div class='col-6'><button type='button' class='btn  btn-success' id='btnaddsub"+i+"'>เพิ่มครุภัณฑ์ย่อย</button><button type='button' class='btn  btn-danger2' id='btndelsub"+i+"'>ลบ</button></div><div class='col-12'><table id='subset"+i+"' class='responsive-table table table-primary'><tbody id='tbodysubset"+i+"' class='tblsubset'></tbody></table></div></div>
